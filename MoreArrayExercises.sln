@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreArrayExercises", "MoreArrayExercises.csproj", "{FBBFADC3-9295-48B0-B316-54C65065E578}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestMoreArrayExercises", "TestMoreArrayExercises", "{11410785-54DC-42A5-9B26-CDDF97C71CF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreArrayExercises.Tests", "..\TestMoreArrayExercises\MoreArrayExercises.Tests\MoreArrayExercises.Tests.csproj", "{92CBCC70-14CA-4A8A-9531-069E322BCAD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBBFADC3-9295-48B0-B316-54C65065E578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBBFADC3-9295-48B0-B316-54C65065E578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBBFADC3-9295-48B0-B316-54C65065E578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBBFADC3-9295-48B0-B316-54C65065E578}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92CBCC70-14CA-4A8A-9531-069E322BCAD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92CBCC70-14CA-4A8A-9531-069E322BCAD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92CBCC70-14CA-4A8A-9531-069E322BCAD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92CBCC70-14CA-4A8A-9531-069E322BCAD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{92CBCC70-14CA-4A8A-9531-069E322BCAD4} = {11410785-54DC-42A5-9B26-CDDF97C71CF7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9356681B-C8AD-4C83-A073-10341CFFB404}
+	EndGlobalSection
+EndGlobal
